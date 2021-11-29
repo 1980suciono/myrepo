@@ -1,2 +1,3 @@
 # myrepo
-Catatan harian
+Catatanrencana kerja    
+buat text file java
